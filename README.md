@@ -3,7 +3,7 @@
 </div>
 
 ---
-### <div align="center">I'm Ventsislav, an ambitious and motivated JAVA developer studying in the Software University!</div>  
+### <div align="center">I'm Ventsislav, an ambitious and motivated Software developer student!</div>  
 
 - 🌱 I'm currently learning JAVA and Economics - a combination which will let me successfully manage my future projects!
 

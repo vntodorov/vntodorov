@@ -3,11 +3,11 @@
 </div>
 
 ---
-### <div align="center">I'm Ventsislav, an ambitious and motivated Software developer student!</div>  
+### <div align="center">I'm Ventsislav, an ambitious and motivated Software developer!</div>  
 
-- 🌱 I'm currently learning JAVA and Economics - a combination which will let me successfully manage my future projects!
+- 🌱 I'm currently learning all about web3!
 
-- 🤞 2023 Goals: Develop my programming skills on a very high level!
+- 🤞 2025 Goals: Web3, web3, web3!
 
 - ⚡ Fun fact: I love to play guitar and practice drama.
 

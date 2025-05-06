@@ -1,5 +1,5 @@
 ---
-### <div align="center">I'm Ventsislav, currently makin' magic @ Paysafe as Java developer!!</div>  
+### <div align="center">I'm Ventsislav, currently makin' magic @ Paysafe as Java developer!</div>  
 
 - 🌱 I'm currently mastering my Java skills and learning all about web3!
 

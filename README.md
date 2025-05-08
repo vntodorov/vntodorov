@@ -1,7 +1,7 @@
 ---
 ### <div align="center">I'm Ventsislav, currently makin' magic @ Paysafe as Java developer!</div>  
 
-- 🌱 I'm currently mastering my Java skills and learning all about web3!
+- 🌱 I'm currently mastering my Java skills and learning all about Solidity and web3!
 
 - 🤞 2025 Goals: Web3, web3, web3!
 

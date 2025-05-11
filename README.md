@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently mastering my Java skills and learning all about Solidity and web3!
 
-- 🤞 2025 Goals: Web3, web3, web3!
+- 🤞 2025 Goals: Master my Java skills and learn all about web3!
 
 - ⚡ Fun facts: Gym rat, love playing guitar & practice drama (sometimes).
 
